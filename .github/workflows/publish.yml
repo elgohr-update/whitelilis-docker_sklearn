@@ -11,3 +11,4 @@ jobs:
         name: whitelilis/sklearn
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
+        tag_names: true
