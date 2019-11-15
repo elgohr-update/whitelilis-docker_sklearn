@@ -1,0 +1,4 @@
+sklearn
+seldon-core
+pickle
+pandas
