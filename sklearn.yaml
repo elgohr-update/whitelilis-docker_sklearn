@@ -9,7 +9,7 @@ spec:
     - spec:
         containers:
         - name: classifier
-          image: whitelilis/docker_sklearn
+          image: whitelilis/whitelilis-sklearn:latest
     graph:
       children: []
       endpoint:
